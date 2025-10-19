@@ -14,3 +14,9 @@ main{
 footer{
     background-color: rgb(179, 109, 211); padding: 5px; text-align: center; font-size: 25px;
 }
+#job{
+    display: none;
+}
+#taxes:hover #job{
+    display: inline; text-align: center;
+}
